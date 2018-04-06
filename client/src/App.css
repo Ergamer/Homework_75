@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+.FirstArea{
+  width: 50%;
+  margin: 0 auto;
+}
+.FirstArea textarea{
+  width: 55%;
+  height: 70px;
+  border: 1px solid black;
+}
+.SecondArea{
+  width: 50%;
+  margin: 0 auto;
+  display: inline-block;
+  padding: 10px 0px 10px 70px;
+}
+.SecondArea span{
+  margin-right: 2px;
+}
+.SecondArea input{
+  width: 25%;
+  margin-right: 12px;
+  border: 1px solid black;
+}
+.ActionButtons{
+  display: inline-block;
+  width: 30%;
+}
+.DecodeButton{
+  width: 45%;
+}
+.EncodeButton{
+  width: 45%;
+  margin-right: 5px;
+}
+.ThirdArea{
+  width: 50%;
+  margin: 0 auto;
+}
+.ThirdArea textarea{
+  width: 55%;
+  height: 70px;
+  border: 1px solid black;
+}
+.ThirdArea span{
+  margin-right: 4px;
+}
